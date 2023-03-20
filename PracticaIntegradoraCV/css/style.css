@@ -1,0 +1,345 @@
+/* Background */
+
+.background {
+    position: absolute;
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+    background: #E6E6E6;
+}
+
+
+/* logo batman */
+
+.logobatman {
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;
+    background: url(batman.png);
+}
+
+
+/* Rectangle 1 */
+
+.rectangle1 {
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+    background: #C4C4C4;
+}
+
+
+/* C U R R I C U L U M V I T A E D E B R U C E W A Y N E */
+
+.cv {
+    position: absolute;
+    width: 1013px;
+    height: 29.87px;
+    left: 213px;
+    top: -20px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    /* identical to box height, or 30px */
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+
+
+/* Rectangle 3 */
+
+.rectangle3 {
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 376px;
+    background: #C4C4C4;
+}
+
+
+/* D A T O S P E R S O N A L E S */
+
+.datospersonales {
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 12.45px;
+    top: -10px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    /* identical to box height, or 17px */
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+
+
+/* Nombre completo: Bruce Wayne */
+
+.nombre {
+    position: absolute;
+    width: 250px;
+    height: 13px;
+    left: 39px;
+    top: 40px;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* identical to box height, or 13px */
+    color: #000000;
+}
+
+
+/* Fecha de nacimiento: 01/05/1939 */
+
+.fecha {
+    position: absolute;
+    width: 208px;
+    height: 13px;
+    left: 39px;
+    top: 60px;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* identical to box height, or 13px */
+    color: #000000;
+}
+
+
+/* Lugar de nacimiento: Gotham City */
+
+.lugar {
+    position: absolute;
+    width: 350x;
+    height: 13px;
+    left: 39px;
+    top: 80px;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* identical to box height, or 13px */
+    color: #000000
+}
+
+
+/* F O R M A C I Ó N A C A D É M I C A */
+
+.formacion {
+    position: absolute;
+    width: 489.68px;
+    height: 17px;
+    left: 12.45px;
+    top: -10px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    /* identical to box height, or 17px */
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+
+
+/* Rectangle 4 */
+
+.rectangle4 {
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 518px;
+    background: #C4C4C4;
+}
+
+
+/* 1956-1961: Universidad del espantapájaros Licenciatura en aeronaútica */
+
+.uni1 {
+    position: absolute;
+    width: 300px;
+    height: 34px;
+    left: 19px;
+    top: 40px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* or 13px */
+    color: #000000;
+}
+
+
+/* 1952-1956: Secundario Gotham Bachiller con especialización en trucos */
+
+.secu {
+    position: absolute;
+    width: 300px;
+    height: 32px;
+    left: 20px;
+    top: 80px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* or 13px */
+    color: #000000
+}
+
+
+/* E X P E R I E N C I A L A B O R A L */
+
+.experiencia {
+    position: absolute;
+    width: 467.55px;
+    height: 17px;
+    left: 12.45px;
+    top: -10px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    /* identical to box height, or 17px */
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+
+
+/* Rectangle  5*/
+
+.rectangle5 {
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 673px;
+    background: #C4C4C4;
+}
+
+
+/* 1975-1985: Desocupado Sin trabajo porquer se me rompió el batimovil */
+
+.desocupado {
+    position: absolute;
+    width: 353px;
+    height: 34px;
+    left: 19px;
+    top: 40px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* or 13px */
+    color: #000000;
+}
+
+
+/* 1965-1975: Cazavillanos y demás chusma Atrapé a Gatubela a joker a Victor Fries lo dejé porque se me congeló la capa */
+
+.casavillanos {
+    position: absolute;
+    width: 539px;
+    height: 32px;
+    left: 20px;
+    top: 80px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* or 13px */
+    color: #000000;
+}
+
+
+/* 1962-1965: Aprendiz de superhéroes Hice pasantía con Superman. Opté por usar mascara porque no pude aprender a peinarme el rulo */
+
+.aprendiz {
+    position: absolute;
+    width: 655px;
+    height: 32px;
+    left: 21px;
+    top: 120px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* or 13px */
+    color: #000000;
+}
+
+
+/* Rectangle 2 */
+
+.rectangle6 {
+    position: absolute;
+    width: 1440px;
+    height: 37px;
+    left: 0px;
+    top: 987px;
+    background: #005677;
+}
+
+
+/* 0810 - BATMAN */
+
+.batman {
+    position: absolute;
+    width: 145px;
+    height: 17px;
+    left: 601px;
+    top: -10px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    /* identical to box height, or 17px */
+    color: #FFFFFF;
+}
+
+
+/* ico_instagram */
+
+.instagram {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 772px;
+    top: 8px;
+    background: url(ico_instagram.png);
+}
+
+
+/* ico_linkedin */
+
+.linkedin {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 818px;
+    top: 8px;
+    background: url(ico_linkedin.png);
+}
