@@ -1,3 +1,8 @@
+.background0 {
+    background: #E5E5E5;
+}
+
+
 /* Rectangle 1 */
 
 .rectangle {
@@ -39,19 +44,19 @@
     position: absolute;
     width: 265px;
     height: 268.86px;
-    left: 95px;
-    top: 720px;
+    left: 330px;
+    top: 740px;
 }
 
 
 /* comedero */
 
-.comedero {
+.comedero2 {
     position: absolute;
-    width: 262.03px;
+    width: 265px;
     height: 266.86px;
-    left: 381.97px;
-    top: 720px;
+    left: 630px;
+    top: 740px;
 }
 
 
@@ -61,8 +66,8 @@
     position: absolute;
     width: 265px;
     height: 268.86px;
-    left: 664px;
-    top: 720px;
+    left: 930px;
+    top: 740px;
 }
 
 
@@ -85,7 +90,7 @@
     width: 340px;
     height: 40px;
     left: calc(50% - 340px/2 + 1px);
-    top: calc(50% - 40px/2 + 275.5px);
+    top: calc(50% - 29px/2 + 780px);
     background: #3C2313;
     border-radius: 15px;
 }
@@ -95,11 +100,11 @@
 
 .rectangle17 {
     position: absolute;
-    width: 110px;
-    height: 34px;
-    left: calc(50% - 110px/2 - 52px);
-    top: calc(50% - 34px/2 + 453.5px);
-    background: #8A8787;
+    width: 340px;
+    height: 40px;
+    left: calc(50% - 340px/2 + 1px);
+    top: calc(50% - 29px/2 + 850px);
+    background: #3C2313;
     border-radius: 15px;
 }
 
@@ -108,18 +113,44 @@
 
 .rectangle18 {
     position: absolute;
+    width: 340px;
+    height: 40px;
+    left: calc(50% - 340px/2 + 1px);
+    top: calc(50% - 29px/2 + 920px);
+    background: #3C2313;
+    border-radius: 15px;
+}
+
+
+/* button 1 */
+
+.button1 {
+    position: absolute;
     width: 110px;
     height: 34px;
-    left: calc(50% - 110px/2 + 64px);
-    top: calc(50% - 34px/2 + 453.5px);
+    left: calc(50% - 500px/2 + 140px);
+    top: calc(50% - 34px/2 + 1000px);
     background: #F0A83E;
     border-radius: 15px;
 }
 
 
-/* Rectangle 18 */
+/* button 2 */
 
-.rectangle18 {
+.button2 {
+    position: absolute;
+    width: 110px;
+    height: 34px;
+    left: calc(50% - 500px/2 + 280px);
+    top: calc(50% - 34px/2 + 1000px);
+    background: #F0A83E;
+    border-radius: 15px;
+}
+
+
+/* Rectangle 19 */
+
+.rectangle19 {
     position: absolute;
     width: 1024px;
     height: 284px;
@@ -459,8 +490,8 @@
     position: absolute;
     width: 78px;
     height: 18px;
-    left: 380px;
-    top: 653px;
+    left: 650px;
+    top: 650px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -477,8 +508,8 @@
     position: absolute;
     width: 75px;
     height: 18px;
-    left: 489px;
-    top: 653px;
+    left: 730px;
+    top: 650px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -495,8 +526,8 @@
     position: absolute;
     width: 52px;
     height: 18px;
-    left: 595px;
-    top: 653px;
+    left: 810px;
+    top: 650px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -504,4 +535,481 @@
     line-height: 18px;
     /* identical to box height */
     color: #666666;
+}
+
+
+/* - */
+
+.gion {
+    position: absolute;
+    width: 5px;
+    height: 18px;
+    left: 722px;
+    top: 650px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #666666;
+}
+
+.gion2 {
+    position: absolute;
+    width: 5px;
+    height: 18px;
+    left: 800px;
+    top: 650px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #666666;
+}
+
+
+/* Productos Destacados */
+
+.productos {
+    position: absolute;
+    width: 406px;
+    height: 47px;
+    left: 555px;
+    top: 555px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    color: #3C2313;
+}
+
+
+/* Juguete Churrasquito */
+
+.juegete {
+    position: absolute;
+    width: 160.54px;
+    height: 19.64px;
+    left: 400px;
+    top: 950px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #3C2313;
+}
+
+
+/* $150 */
+
+.preciojuegete {
+    position: absolute;
+    width: 38.49px;
+    height: 19.64px;
+    left: 445px;
+    top: 970px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #F0A83E;
+}
+
+
+/* Comedero para perro */
+
+.comederperro {
+    position: absolute;
+    width: 159.97px;
+    height: 19.64px;
+    left: 710px;
+    top: 950px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #3C2313;
+}
+
+
+/* $250 */
+
+.preciocomedero {
+    position: absolute;
+    width: 39.15px;
+    height: 19.64px;
+    left: 765px;
+    top: 970px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #F0A83E;
+}
+
+
+/* Juguete Huesito */
+
+.juegetehuesito {
+    position: absolute;
+    width: 112.37px;
+    height: 18.97px;
+    left: 1008px;
+    top: 950px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #3C2313;
+}
+
+
+/* $650 */
+
+.preciohuesito {
+    position: absolute;
+    width: 34.61px;
+    height: 18.06px;
+    left: 1040px;
+    top: 970px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #F0A83E;
+}
+
+
+/* Contáctanos */
+
+.contactanos2 {
+    position: absolute;
+    width: 143px;
+    height: 29px;
+    left: calc(50% - 143px/2 + 7.5px);
+    top: calc(50% - 29px/2 + 700px);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    color: #3C2313;
+}
+
+
+/* Rectangle footer1 */
+
+.rectafooter1 {
+    position: absolute;
+    width: 1024px;
+    height: 60px;
+    left: calc(50% - 1024px/2);
+    top: calc(50% - 60px/2 + 1080px);
+    background: #F0A83E;
+}
+
+
+/* Suscríbete para más novedades */
+
+.sucribite {
+    position: absolute;
+    width: 288px;
+    height: 23px;
+    left: calc(50% - 880px/2);
+    top: calc(50% - 60px/2 + 1100px);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.textosuscribite {
+    position: absolute;
+    width: 278px;
+    height: 40px;
+    left: calc(50% - 271px/2 + 254.5px);
+    top: calc(50% - 40px/2 + 1100px);
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+.inputsuscribite {
+    position: absolute;
+    width: 93px;
+    height: 34px;
+    left: calc(50% - 70px/2 + 445px);
+    top: calc(50% - 34px/2 + 1100px);
+    background: #3C2313;
+    border-radius: 15px;
+}
+
+
+/* enviar-correo 1 */
+
+.enviarcorreo {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: calc(50% - 40px/2 - 469px);
+    top: calc(50% - 40px/2 + 1100px);
+}
+
+
+/* rectanglefooter*/
+
+.rectanglefooter {
+    position: absolute;
+    width: 1024px;
+    height: 284px;
+    left: calc(50% - 1024px/2);
+    top: calc(50% - 40px/2 + 1130px);
+    bottom: 17px;
+    background: #3C2313;
+}
+
+
+/* Icono */
+
+.location {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 300px;
+    top: 1529px;
+}
+
+
+/* Icono */
+
+.phone {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 300px;
+    top: 1615px;
+}
+
+
+/* Icono */
+
+.mail {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 300px;
+    top: 1701px;
+}
+
+
+/* Localidad */
+
+.textlocalidad {
+    position: absolute;
+    width: 88px;
+    height: 23px;
+    left: calc(50% - 88px/2 - 307px);
+    top: 1525px;
+    bottom: 255px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+
+/* Calle - provincia */
+
+.textcalle {
+    position: absolute;
+    width: 73px;
+    height: 12px;
+    left: calc(50% - 73px/2 - 314.5px);
+    top: 1560px;
+    bottom: 243px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    color: #8A8787;
+}
+
+
+/* Teléfono */
+
+.texttelefono {
+    position: absolute;
+    width: 80px;
+    height: 23px;
+    left: calc(50% - 80px/2 - 311px);
+    top: 1600px;
+    bottom: 169px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+
+/* Número de teléfono */
+
+.textnumero {
+    position: absolute;
+    width: 90px;
+    height: 12px;
+    left: calc(50% - 90px/2 - 306px);
+    top: 1635px;
+    bottom: 157px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    color: #8A8787;
+}
+
+
+/* Correo Electrónico */
+
+.textcorreo {
+    position: absolute;
+    width: 168px;
+    height: 23px;
+    left: calc(50% - 168px/2 - 267px);
+    top: 1690px;
+    bottom: 83px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+
+/* Dirección de correo */
+
+.textemail {
+    position: absolute;
+    width: 88px;
+    height: 12px;
+    left: calc(50% - 88px/2 - 307px);
+    top: 1725px;
+    bottom: 71px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    color: #8A8787;
+}
+
+
+/* Front */
+
+.fontfooter {
+    position: absolute;
+    width: 57.08px;
+    height: 23px;
+    left: calc(50% - 57.08px/2 + 322.5px);
+    top: 1635px;
+    bottom: 148px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+
+/* Cat&Dog */
+
+.catodogfooter {
+    position: absolute;
+    width: 96.13px;
+    height: 23px;
+    left: calc(50% - 96.13px/2 + 389.91px);
+    top: 1635px;
+    bottom: 148px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #F0A83E;
+}
+
+
+/* Cat */
+
+.catfooter {
+    position: absolute;
+    width: 15.65px;
+    height: 13.12px;
+    left: 1035px;
+    top: 1660px;
+}
+
+
+/* Dog */
+
+.dogfooter {
+    position: absolute;
+    width: 18.34px;
+    height: 14.38px;
+    left: 1185px;
+    top: 1660px;
+}
+
+
+/* Rectangle 25 */
+
+.cajonfooter {
+    position: absolute;
+    width: 1024px;
+    height: 20px;
+    left: calc(50% - 1024px/2);
+    top: 1765px;
+    bottom: 0px;
+    background: #222222;
+}
+
+
+/* Todos los derechos reservados Front End */
+
+.finfooter {
+    position: absolute;
+    width: 186px;
+    height: 12px;
+    left: calc(50% - 186px/2);
+    top: 1775px;
+    bottom: 4px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    color: #FFFFFF;
 }
