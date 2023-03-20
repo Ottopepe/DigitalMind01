@@ -1,0 +1,507 @@
+/* Rectangle 1 */
+
+.rectangle {
+    position: absolute;
+    width: 1024px;
+    height: 25px;
+    left: calc(50% - 1024px/2);
+    top: 0px;
+    background: #222222;
+}
+
+
+/* Rectangle 3 */
+
+.rectangle2 {
+    position: absolute;
+    width: 1024px;
+    height: 62px;
+    left: calc(50% - 1024px/2);
+    top: 20px;
+    background: #F0A83E;
+}
+
+
+/* bowl-and-pet-daities-on-green-background 1 */
+
+.background1 {
+    position: absolute;
+    width: 1025px;
+    height: 409px;
+    left: calc(50% - 1025px/2 + 0.5px);
+    top: 81px;
+}
+
+
+/* churrasquito */
+
+.churrasquito {
+    position: absolute;
+    width: 265px;
+    height: 268.86px;
+    left: 95px;
+    top: 720px;
+}
+
+
+/* comedero */
+
+.comedero {
+    position: absolute;
+    width: 262.03px;
+    height: 266.86px;
+    left: 381.97px;
+    top: 720px;
+}
+
+
+/* Huesito */
+
+.huesito {
+    position: absolute;
+    width: 265px;
+    height: 268.86px;
+    left: 664px;
+    top: 720px;
+}
+
+
+/* Rectangle 15 */
+
+.rectangle15 {
+    position: absolute;
+    width: 1024px;
+    height: 60px;
+    left: calc(50% - 1024px/2);
+    top: calc(50% - 60px/2 + 575.5px);
+    background: #F0A83E;
+}
+
+
+/* Rectangle 16 */
+
+.rectangle16 {
+    position: absolute;
+    width: 340px;
+    height: 40px;
+    left: calc(50% - 340px/2 + 1px);
+    top: calc(50% - 40px/2 + 275.5px);
+    background: #3C2313;
+    border-radius: 15px;
+}
+
+
+/* Rectangle 17 */
+
+.rectangle17 {
+    position: absolute;
+    width: 110px;
+    height: 34px;
+    left: calc(50% - 110px/2 - 52px);
+    top: calc(50% - 34px/2 + 453.5px);
+    background: #8A8787;
+    border-radius: 15px;
+}
+
+
+/* Rectangle 18 */
+
+.rectangle18 {
+    position: absolute;
+    width: 110px;
+    height: 34px;
+    left: calc(50% - 110px/2 + 64px);
+    top: calc(50% - 34px/2 + 453.5px);
+    background: #F0A83E;
+    border-radius: 15px;
+}
+
+
+/* Rectangle 18 */
+
+.rectangle18 {
+    position: absolute;
+    width: 1024px;
+    height: 284px;
+    left: calc(50% - 1024px/2);
+    bottom: 17px;
+    background: #3C2313
+}
+
+
+/* Grandes ofertas en comederos */
+
+.grandesofertas {
+    position: absolute;
+    width: 135px;
+    height: 12px;
+    left: calc(50% - 138px/2 - 353px);
+    top: -6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    color: #F3F3F3;
+}
+
+
+/* Español */
+
+.español {
+    position: absolute;
+    width: 36px;
+    height: 12px;
+    left: calc(50% - 36px/2 + 388px);
+    top: 4px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    color: #F3F3F3;
+}
+
+
+/* ARG$ */
+
+.arg {
+    position: absolute;
+    width: 26px;
+    height: 12px;
+    left: calc(50% - 26px/2 + 439px);
+    top: 4px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    color: #F3F3F3;
+}
+
+
+/* Categorías */
+
+.categoria {
+    position: absolute;
+    width: 64px;
+    height: 14px;
+    left: calc(50% - 64px/2 + 177px);
+    top: 25px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+
+/* Pets */
+
+.pets {
+    position: absolute;
+    width: 27px;
+    height: 14px;
+    left: calc(50% - 27px/2 + 258.5px);
+    top: 25px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+
+/* Nosotros */
+
+.nosotros {
+    position: absolute;
+    width: 54px;
+    height: 15px;
+    left: calc(50% - 54px/2 + 335px);
+    top: 25px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+
+/* Contactanos */
+
+.contactanos {
+    position: absolute;
+    width: 74px;
+    height: 14px;
+    left: calc(50% - 74px/2 + 435px);
+    top: 25px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+
+/* Front */
+
+.fronts {
+    position: absolute;
+    width: 57.21px;
+    height: 23px;
+    left: calc(50% - 57.21px/2 - 425.4px);
+    top: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #3C2313;
+}
+
+
+/* Cat&Dog */
+
+.catdog {
+    position: absolute;
+    width: 96.35px;
+    height: 23px;
+    left: calc(50% - 96.35px/2 - 356.82px);
+    top: 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+
+/* Cat */
+
+.cat {
+    position: absolute;
+    width: 15.68px;
+    height: 13.12px;
+    left: -15px;
+    top: 5px;
+}
+
+
+/* Dog */
+
+.dog {
+    position: absolute;
+    width: 18.38px;
+    height: 14.38px;
+    left: 85px;
+    top: 5px;
+}
+
+
+/* pawprint 1 */
+
+.pawprint1 {
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    left: calc(50% - 15px/2 + 136.5px);
+    top: 25px;
+}
+
+.pawprint2 {
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    left: calc(50% - 15px/2 + 236.5px);
+    top: 25px;
+}
+
+.pawprint3 {
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    left: calc(50% - 15px/2 + 299.5px);
+    top: 25px;
+}
+
+.pawprint4 {
+    position: absolute;
+    width: 15px;
+    height: 14px;
+    left: calc(50% - 15px/2 + 389.5px);
+    top: 25px;
+}
+
+
+/* Rectangle 5 */
+
+.rectangle5 {
+    position: absolute;
+    width: 365px;
+    height: 54px;
+    left: 648px;
+    top: 237px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+
+/* ¡Es un placer tenerte aquí! */
+
+.placer {
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 890px;
+    top: 210px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #3C2313;
+}
+
+
+/* ¡Comederos en descuento! */
+
+.descuento {
+    position: absolute;
+    width: 1210x;
+    height: 19px;
+    left: 960px;
+    top: 273px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    /* identical to box height */
+    text-align: center;
+    color: #3C2313;
+}
+
+
+/* Rectangle 6 */
+
+.rectangle6 {
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    left: 767px;
+    top: 334px;
+    background: #F0A83E;
+    border-radius: 5px;
+}
+
+
+/* COMEDEROS */
+
+.comedero {
+    position: absolute;
+    width: 130px;
+    height: 45px;
+    left: 980px;
+    top: 295px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 45px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF
+}
+
+
+/* pawprint 1 */
+
+.pawprint0 {
+    position: absolute;
+    width: 67px;
+    height: 71px;
+    left: calc(50% - 67px/2 + 0.5px);
+    top: 510px;
+}
+
+
+/* Productos Destacados */
+
+.destacados {
+    position: absolute;
+    width: 406px;
+    height: 47px;
+    left: 309px;
+    top: 586px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    color: #3C2313;
+}
+
+
+/* Comederos */
+
+.comederos {
+    position: absolute;
+    width: 78px;
+    height: 18px;
+    left: 380px;
+    top: 653px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #666666;
+}
+
+
+/* Accesorios */
+
+.accesorios {
+    position: absolute;
+    width: 75px;
+    height: 18px;
+    left: 489px;
+    top: 653px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #666666;
+}
+
+
+/* Comida */
+
+.comida {
+    position: absolute;
+    width: 52px;
+    height: 18px;
+    left: 595px;
+    top: 653px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #666666;
+}
